@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Form/Main_Form  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Form/FVisParam_Form path:Form/FVisParam_Form  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Form/FTestOption_Form  ",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "path:Form/FResult_Form  ",
+      "color": {
+        "a": 1,
+        "rgb": 288516
+      }
+    },
+    {
+      "query": "path:Form/FRecipe_Form  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Form/FMtrParam_Form  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:Form/FLog_Form  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:Motion  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:Sequence  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711850
+      }
+    },
+    {
+      "query": "path:Vision  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 4.36197916666667,
+  "lineSizeMultiplier": 2.72864583333333,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 500,
+  "scale": 0.010952991388875833,
+  "close": true
+}

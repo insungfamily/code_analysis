@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "75b8407402ca8c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "19fa0531efbdfc3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea53c15e4bfb913e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4000a0a5eb1476b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bc69217a481df00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bb182c717acaf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "917401d084891c9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "StartSequenceAsync",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d0829a5d73388f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30e59851fbe0428c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7436bb348efb93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b881e9c9e64c99e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53853b093a0c1477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2773c2576c934af2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "998fb90419301f2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ea53c15e4bfb913e",
+  "lastOpenFiles": [
+    "Form/Main_Form/1. 초기화 및 설정/SetFontForControl.md",
+    "Form/Main_Form/__FMain.cs__.md",
+    "Form/Main_Form/2. 이미지 처리/__이미지 처리__.md",
+    "Vision/VisionCamFirst/__VisionCamFirst.cs__.md",
+    "Form/FTestOption_Form/2. 동작/__동작__.md",
+    "Form/FTestOption_Form/2. 동작/cobxRoiIndex_MouseDown.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/__버튼 클릭 이벤트 처리__.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnShowIO_Click.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnRstData_Click.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnSeqRun_Click.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnShowMotion_Click.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnTestOption_Click.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnShowLog_Click.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnShowMtrParam_Click.md",
+    "Form/Main_Form/6. 버튼 클릭 이벤트 처리/btnShowVisParam_Click.md",
+    "Vision/VisionMain/CamerBase_class/__CamerBase_class__.md",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/__Vision Functions__.md",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Camera Calibration/__Camera Calibration__.md",
+    "Vision/VisionMain/CamerBase_class/2. 동작/ArucoMarker/__ArucoMarker__.md",
+    "Vision/VisionMain/CamerBase_class/1. 초기화 및 설정/__초기화 및 설정__.md",
+    "Vision/VisionMain/CamerBase_class/2. 동작/기타/__기타__.md",
+    "Vision/VisionCamFirst/2. 동작/__동작__.md",
+    "Vision/VisionCamFirst/1. 초기화 및 설정/__초기화 및 설정__.md",
+    "Vision/FRoi_Form/__FRoi.cs__.md",
+    "Vision/FRoi_Form/2. 동작/__동작__.md",
+    "Vision/FRoi_Form/2. 동작/btSaveRoiData_Click.md",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/컨투어 및 모멘트",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/도형 및 텍스트 그리기",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/특징 검출 및 그리기",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/특수효과 및 기타 변환",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/기하학적 변환",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/모폴로지",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/블러링",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/엣지 검출",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/이진화",
+    "Vision/VisionMain/CamerBase_class/2. 동작/Vision Functions/색상 변환 및 조정",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,8 @@
+[[ConvertPictureBoxToImagePoint]]
+
+[[PerformZoomedDragging]]
+
+[[UpdateRoiEndPoint]]
+
+[[UpdateCalEndPoint]]
+
